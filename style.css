@@ -470,29 +470,19 @@ section .title::after{
 .name-color{
     font-size: larger;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
+.name-color1{
+    font-size:x-large;
+    color: white;
+}
+
 
 .location{
     margin-top: 4%;
 }
 
-/* .name-color .card::after{
-    color: blue;
-}
 
-.name-color .card:hover::after{
-    color:#25d366
-} */
-
-
-
-/* .name-color::after{
-    color : red;
-} */
-
-/* .name-color:hover::after{
-    color: red;
-} */
 
 /* contact section styling */
 .contact .title::after{
