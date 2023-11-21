@@ -475,6 +475,7 @@ section .title::after{
 .name-color1{
     font-size:x-large;
     color: white;
+    text-decoration: none;
 }
 
 
